@@ -1,7 +1,10 @@
 mtcnn
 opencv-python
 moviepy
-numpy
 pandas
-scikit-learn
+numpy
+matplotlib
+seaborn
 tensorflow
+keras
+ftfy
