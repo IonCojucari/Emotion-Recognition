@@ -46,7 +46,7 @@ The project includes:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/emotion-recognition.git
+   git clone https://github.com/your-repo/emotion-recognition.git](https://github.com/IonCojucari/Emotion-Recognition.git
    cd emotion-recognition
    ```
 
