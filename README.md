@@ -1,4 +1,4 @@
-# Emotion-Recognition
+# Multimodal Emotion Recognition in Videos
 
 This project focuses on multimodal emotion recognition in videos, leveraging transformer-based models and attention mechanisms to identify emotions from facial expressions.
 
@@ -63,4 +63,3 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 ---
 
 Feel free to contribute or raise issues if you have questions or suggestions!
-
