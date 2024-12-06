@@ -1,9 +1,3 @@
-I'll review the uploaded notebook and files to ensure the README reflects their functionalities accurately. Let me examine the content of the `Emotion_Recognition.ipynb` notebook.
-
-Based on the review of the uploaded files, here's the updated **README.md** with more details from the notebook and scripts:
-
----
-
 # Real-Time Multimodal Emotion Recognition
 
 This project leverages deep learning models for real-time emotion recognition using both image and text modalities. It includes webcam-based emotion detection and supports multimodal integration.
